@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
   font-family: Arial, Helvetica, sans-serif;
@@ -61,7 +60,7 @@ hr {
 </head>
 <body>
 
-<form method="post" enctype="multipart/form-data" action="sample.php" target="_blank"> <!-- Opens the sample.php in a new tab-->
+<form method="post" action="sample.php" target="_blank"> <!-- Opens the sample.php in a new tab-->
   <div class="container">
     <h1>Login</h1>
     <hr>
